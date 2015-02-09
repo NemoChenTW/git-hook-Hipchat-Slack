@@ -1,6 +1,8 @@
 # git-hook-Hipchat-Slack
 Combine two git hook hipchat &amp; slack together.
 
+You can send message to Hipchat and Slack when git update.
+
 This repository reference from [Git HipChat Hook](https://github.com/eirc/git-hipchat-hook) and [Git post-receive hook for Slack](https://github.com/chriseldredge/git-slack-hook).
 
 #Prepare
