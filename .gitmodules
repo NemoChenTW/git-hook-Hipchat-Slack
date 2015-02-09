@@ -1,0 +1,3 @@
+[submodule "git-hipchat-hook"]
+	path = git-hipchat-hook
+	url = https://github.com/NemoChenTW/git-hipchat-hook.git
